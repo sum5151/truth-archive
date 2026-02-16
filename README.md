@@ -13,3 +13,4 @@ This repository archives primary source data to counter historical misinformatio
 ## 3. 労働分配率と為替（110円台への回帰パス）
 - **論理構造**: 分配率の適正化 → 国内購買力の向上 → 購買力平価の修正。
 - **Status**: 論理モデル構築中。
+
